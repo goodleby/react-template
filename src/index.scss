@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+  line-height: 1.2;
+}
+body {
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+}
